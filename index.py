@@ -1,1 +1,4 @@
-print("Hello world")
+class Person:
+
+    def index(self):
+        print("Salom")
