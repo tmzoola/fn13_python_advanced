@@ -1,4 +1,4 @@
 class Person:
 
     def index(self):
-        print("Salom")
+        print("Salom sdsdssdsds")
